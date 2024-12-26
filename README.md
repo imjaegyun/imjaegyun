@@ -5,15 +5,14 @@ I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Yo
 ---
 
 ## 🛠️ Tech Stack
-
-![C](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=C&fontSize=20&fontAlign=85)
-![Python](https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=Python&fontSize=20&fontAlign=80)
-![Java](https://capsule-render.vercel.app/api?type=waving&color=orange&height=100&section=header&text=Java&fontSize=20&fontAlign=70)
-![Shell](https://capsule-render.vercel.app/api?type=waving&color=green&height=100&section=header&text=Shell&fontSize=20&fontAlign=60)
-![Docker](https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=header&text=Docker&fontSize=20&fontAlign=50)
-![PyTorch](https://capsule-render.vercel.app/api?type=waving&color=red&height=100&section=header&text=PyTorch&fontSize=20&fontAlign=40)
-![Jetson](https://capsule-render.vercel.app/api?type=waving&color=lime&height=100&section=header&text=Jetson&fontSize=20&fontAlign=30)
-![NVIDIA](https://capsule-render.vercel.app/api?type=waving&color=lime&height=100&section=header&text=NVIDIA&fontSize=20&fontAlign=20)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Jetson](https://img.shields.io/badge/-Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
 
 ---
 
