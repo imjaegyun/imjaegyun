@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlign=center)
+
 # 👋 Hi, I'm [Your Name]!
 
 I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Your Interests/Projects]**.
@@ -5,6 +7,7 @@ I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Yo
 ---
 
 ## 🛠️ Tech Stack
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -22,24 +25,4 @@ I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Yo
 
 ---
 
-## 🌱 About Me
-- 🔭 Currently working on: **[Your Projects]**
-- 📚 Learning: **[Your Learning Topics]**
-- 💬 Ask me about: **C, Python, Java, Docker, AI Development, NVIDIA Jetson**
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=web)](https://your-portfolio-link)
-
----
-
-## 🌟 Featured Projects
-- 🚀 [Project Name](https://github.com/your-username/project-repo): A short description of the project
-- 🔧 [Project Name](https://github.com/your-username/project-repo): Another description
-
----
-
-*✨ Inspired by the developer community ✨*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontAlign=70)
