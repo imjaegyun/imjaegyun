@@ -72,5 +72,5 @@ I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Yo
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thank%20you%20for%20visiting!&fontSize=20&fontAlign=70)
+
 
