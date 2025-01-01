@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
   #### Email
   
@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
+
