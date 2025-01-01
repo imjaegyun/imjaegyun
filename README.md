@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Jaegyun!
 
 I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Your Interests/Projects]**.
 
