@@ -54,6 +54,11 @@ Here are some ideas to get you started:
 > - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
 > - **Master's Student(Department of Future Convergence Technology)** (2023.09 ~ 2025.08)
 ---
+> **🔎[Research Interest]**
+> - **Computer Vision**
+> - **Personalized Federated Learning**
+> - **Smart city & Mobility Environments**
+> - **LLM/LMM-based Autonomous driving safety system**
 ---
 
 ## 🛠️ Tech Stack
