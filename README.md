@@ -51,14 +51,15 @@ Here are some ideas to get you started:
 
 #### About me
 > **👨🏼‍🎓[Education]**
-> - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
-> - **Master's Student(Department of Future Convergence Technology)** (2023.09 ~ 2025.08)
+> - **Undergraduate Student(Department of AI and Big Data)** (2022.03 ~ )
 ---
 > **🔎[Research Interest]**
 > - **Computer Vision**
-> - **Personalized Federated Learning**
+> - **Model Optimization**
+> - **On-Device AI Solutions**
 > - **Smart city & Mobility Environments**
 > - **LLM/LMM-based Autonomous driving safety system**
+> - **Generative AI and Vision-Language Models (VLM)**
 ---
 
 ## 🛠️ Tech Stack
