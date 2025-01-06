@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 > - **Generative AI and Vision-Language Models (VLM)**
 ---
 > **📃[Papers]**
+
 > ***Domestic Conference***
 > - **임재균**, 노병준*, "블랙박스 영상 기반 전방 차량의 차선 변경 예측을 위한 방향지시등 인식 방법" 2023 제4회 인공지능학술대회
 > - **임재균**, 노병준*, "Video Diffusion를 활용한 차량 영상 센서 데이터 손실 보간 기법", 2024 한국 ITS 학회 추계학술대회 논문집
