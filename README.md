@@ -49,8 +49,11 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Jaegyun!
 
-I'm a passionate **[Your Role]** from 🌍 **[Your Location]**, working on **[Your Interests/Projects]**.
-
+#### About me
+> **👨🏼‍🎓[Education]**
+> - **Undergraduate Student(Department of AI and Big Data)** (2017.03 ~ 2021.02)
+> - **Master's Student(Department of Future Convergence Technology)** (2023.09 ~ 2025.08)
+---
 ---
 
 ## 🛠️ Tech Stack
