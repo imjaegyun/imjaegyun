@@ -54,18 +54,30 @@ Here are some ideas to get you started:
 > - **Undergraduate Student(Department of AI and Big Data)** (2022.03 ~ )
 ---
 > **🔎[Research Interest]**
+> - **Deep Learning**
 > - **Computer Vision**
-> - **Model Optimization**
-> - **On-Device AI Solutions**
-> - **Smart city & Mobility Environments**
-> - **LLM/LMM-based Autonomous driving safety system**
-> - **Generative AI and Vision-Language Models (VLM)**
----
-> **📃[Papers]**
+> - **Generative AI**
+> - **Large Language Model**
+> - **Vision Language Model**
+> - **Multimodal Large language Model**
 
-> ***Domestic Conference***
-> - **임재균**, 노병준*, "블랙박스 영상 기반 전방 차량의 차선 변경 예측을 위한 방향지시등 인식 방법" 2023 제4회 인공지능학술대회
-> - **임재균**, 노병준*, "Video Diffusion를 활용한 차량 영상 센서 데이터 손실 보간 기법", 2024 한국 ITS 학회 추계학술대회 논문집
+---
+## 📝 Publications
+
+### 📌 International
+
+- **Hong, S., Im, J., Noh, B.** (2025). _Attention-Driven Lane Change Trajectory Prediction with Traffic Context in Urban Environments_, **IEEE Access**
+- **Kim, B., Im, J., Noh, B.** (2025). _Federated learning-based road surveillance system in distributed CCTV environment: Pedestrian fall recognition using spatio-temporal attention networks_, **Applied Intelligence**
+- **Lee, H., Hong, S., Song, J., Cho, H., Jin, Z., Kim, B., Jin, J., Im, J., Noh, B., Yeo, H.** (2025). _DRIFT open dataset: A drone-derived intelligence for traffic analysis in urban environment_, **Under review at European Transport Research Review**
+- **Song, J., Kim, S., Im, J., Noh, B.** (2025). _Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision_, **Under review at WACV 2026**
+- **Im, J., Kim, B., Jin, J., Noh, B.** (2025). _Traffic Context-Augmented Vehicle Trajectory Prediction Framework using Multimodal LLM_, **Accepted at IEEE ITSC 2025**
+
+### 📌 Domestic
+
+- **Im, J., Noh, B.** (2023). _Vision-based Turn Signal Recognition for Lane Change Prediction of Forward Vehicles_, **The 4th Korea Artificial Intelligence Conference**
+- **Im, J., Noh, B.** (2024). _Loss Interpolation Method for Vehicle Video Sensor Data using Video Diffusion_, **Korea ITS Society 2024 Fall Conference**
+- **Hong, S., Im, J., Lee, H., Ka, D., Lee, C., Noh, B.** (2024). _Drone Vision-based Lane Change Prediction in Urban Vehicle Driving with Transformer_, **JKITS (KCI)**
+
 ---
 > **🏆[Awards]**
 
@@ -88,10 +100,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
----
-
+![imjaegyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaegyun&show_icons=true&theme=dark)
+![imjaegyun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjaegyun&layout=compact&theme=dark)
 
 
