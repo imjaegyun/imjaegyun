@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Jaegyun!
 
-### 📄 Curriculum Vitae
+### 📄 Curriculum Vitae  
 [![CV](https://img.shields.io/badge/View-CV-blue)](./Jaegyun_Im_CV.pdf)
 
 #### About me
