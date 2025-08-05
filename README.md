@@ -102,4 +102,5 @@ Here are some ideas to get you started:
 ![imjaegyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaegyun&show_icons=true&theme=dark)
 ![imjaegyun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjaegyun&layout=compact&theme=dark)
 
-
+### 📄 Curriculum Vitae
+[![CV](https://img.shields.io/badge/View-CV-blue)](./Jaegyun_Im_CV.pdf)
